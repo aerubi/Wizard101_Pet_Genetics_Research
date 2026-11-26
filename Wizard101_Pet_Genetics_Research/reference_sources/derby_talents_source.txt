@@ -1,0 +1,108 @@
+<div class="mw-category"><div class="mw-category-group"><h3>B</h3>
+<ul><li><a href="/wiki/PetAbility:Baffle" title="PetAbility:Baffle">PetAbility:Baffle</a></li>
+<li><a href="/wiki/PetAbility:Banana_Peel" title="PetAbility:Banana Peel">PetAbility:Banana Peel</a></li>
+<li><a href="/wiki/PetAbility:Bananas!" title="PetAbility:Bananas!">PetAbility:Bananas!</a></li>
+<li><a href="/wiki/PetAbility:Befuddle" title="PetAbility:Befuddle">PetAbility:Befuddle</a></li>
+<li><a href="/wiki/PetAbility:Big_Boost" title="PetAbility:Big Boost">PetAbility:Big Boost</a></li>
+<li><a href="/wiki/PetAbility:Big_Downer" title="PetAbility:Big Downer">PetAbility:Big Downer</a></li>
+<li><a href="/wiki/PetAbility:Big_Drain" title="PetAbility:Big Drain">PetAbility:Big Drain</a></li>
+<li><a href="/wiki/PetAbility:Big_Exhaust" title="PetAbility:Big Exhaust">PetAbility:Big Exhaust</a></li>
+<li><a href="/wiki/PetAbility:Big_Hurry" title="PetAbility:Big Hurry">PetAbility:Big Hurry</a></li>
+<li><a href="/wiki/PetAbility:Big_Rally" title="PetAbility:Big Rally">PetAbility:Big Rally</a></li>
+<li><a href="/wiki/PetAbility:Big_Recovery" title="PetAbility:Big Recovery">PetAbility:Big Recovery</a></li>
+<li><a href="/wiki/PetAbility:Big-Check" title="PetAbility:Big-Check">PetAbility:Big-Check</a></li>
+<li><a href="/wiki/PetAbility:Bombardier" title="PetAbility:Bombardier">PetAbility:Bombardier</a></li>
+<li><a href="/wiki/PetAbility:Bomber" title="PetAbility:Bomber">PetAbility:Bomber</a></li>
+<li><a href="/wiki/PetAbility:Boost" title="PetAbility:Boost">PetAbility:Boost</a></li>
+<li><a href="/wiki/PetAbility:Bummer" title="PetAbility:Bummer">PetAbility:Bummer</a></li></ul></div><div class="mw-category-group"><h3>C</h3>
+<ul><li><a href="/wiki/PetAbility:Catch" title="PetAbility:Catch">PetAbility:Catch</a></li>
+<li><a href="/wiki/PetAbility:Catch_Leader" title="PetAbility:Catch Leader">PetAbility:Catch Leader</a></li>
+<li><a href="/wiki/PetAbility:Charge" title="PetAbility:Charge">PetAbility:Charge</a></li>
+<li><a href="/wiki/PetAbility:Charge_Up" title="PetAbility:Charge Up">PetAbility:Charge Up</a></li>
+<li><a href="/wiki/PetAbility:Check" title="PetAbility:Check">PetAbility:Check</a></li>
+<li><a href="/wiki/PetAbility:Clay_Post" title="PetAbility:Clay Post">PetAbility:Clay Post</a></li>
+<li><a href="/wiki/PetAbility:Clear" title="PetAbility:Clear">PetAbility:Clear</a></li>
+<li><a href="/wiki/PetAbility:Clear_Path" title="PetAbility:Clear Path">PetAbility:Clear Path</a></li></ul></div><div class="mw-category-group"><h3>D</h3>
+<ul><li><a href="/wiki/PetAbility:Dawdle" title="PetAbility:Dawdle">PetAbility:Dawdle</a></li>
+<li><a href="/wiki/PetAbility:Dead_End" title="PetAbility:Dead End">PetAbility:Dead End</a></li>
+<li><a href="/wiki/PetAbility:Delay" title="PetAbility:Delay">PetAbility:Delay</a></li>
+<li><a href="/wiki/PetAbility:Deplete" title="PetAbility:Deplete">PetAbility:Deplete</a></li>
+<li><a href="/wiki/PetAbility:Dirt_Post" title="PetAbility:Dirt Post">PetAbility:Dirt Post</a></li>
+<li><a href="/wiki/PetAbility:Disconcert" title="PetAbility:Disconcert">PetAbility:Disconcert</a></li>
+<li><a href="/wiki/PetAbility:Distract" title="PetAbility:Distract">PetAbility:Distract</a></li>
+<li><a href="/wiki/PetAbility:Downer" title="PetAbility:Downer">PetAbility:Downer</a></li>
+<li><a href="/wiki/PetAbility:Drain" title="PetAbility:Drain">PetAbility:Drain</a></li>
+<li><a href="/wiki/PetAbility:Dumbfound" title="PetAbility:Dumbfound">PetAbility:Dumbfound</a></li></ul></div><div class="mw-category-group"><h3>E</h3>
+<ul><li><a href="/wiki/PetAbility:Eat_My_Dirt" title="PetAbility:Eat My Dirt">PetAbility:Eat My Dirt</a></li>
+<li><a href="/wiki/PetAbility:Eat_My_Dust" title="PetAbility:Eat My Dust">PetAbility:Eat My Dust</a></li>
+<li><a href="/wiki/PetAbility:Enfeeble" title="PetAbility:Enfeeble">PetAbility:Enfeeble</a></li>
+<li><a href="/wiki/PetAbility:Enfeeblement" title="PetAbility:Enfeeblement">PetAbility:Enfeeblement</a></li>
+<li><a href="/wiki/PetAbility:Exhaust" title="PetAbility:Exhaust">PetAbility:Exhaust</a></li>
+<li><a href="/wiki/PetAbility:Exhausted" title="PetAbility:Exhausted">PetAbility:Exhausted</a></li></ul></div><div class="mw-category-group"><h3>F</h3>
+<ul><li><a href="/wiki/PetAbility:Flummox" title="PetAbility:Flummox">PetAbility:Flummox</a></li>
+<li><a href="/wiki/PetAbility:Freeze_Frame" title="PetAbility:Freeze Frame">PetAbility:Freeze Frame</a></li></ul></div><div class="mw-category-group"><h3>G</h3>
+<ul><li><a href="/wiki/PetAbility:Grass_Post" title="PetAbility:Grass Post">PetAbility:Grass Post</a></li></ul></div><div class="mw-category-group"><h3>H</h3>
+<ul><li><a href="/wiki/PetAbility:Halt_Leader" title="PetAbility:Halt Leader">PetAbility:Halt Leader</a></li>
+<li><a href="/wiki/PetAbility:Huge_Rally" title="PetAbility:Huge Rally">PetAbility:Huge Rally</a></li>
+<li><a href="/wiki/PetAbility:Hurry" title="PetAbility:Hurry">PetAbility:Hurry</a></li></ul></div><div class="mw-category-group"><h3>I</h3>
+<ul><li><a href="/wiki/PetAbility:Immunity" title="PetAbility:Immunity">PetAbility:Immunity</a></li></ul></div><div class="mw-category-group"><h3>K</h3>
+<ul><li><a href="/wiki/PetAbility:Killjoy" title="PetAbility:Killjoy">PetAbility:Killjoy</a></li></ul></div><div class="mw-category-group"><h3>L</h3>
+<ul><li><a href="/wiki/PetAbility:Leech" title="PetAbility:Leech">PetAbility:Leech</a></li>
+<li><a href="/wiki/PetAbility:Lock" title="PetAbility:Lock">PetAbility:Lock</a></li></ul></div><div class="mw-category-group"><h3>M</h3>
+<ul><li><a href="/wiki/PetAbility:Mega_Hurry" title="PetAbility:Mega Hurry">PetAbility:Mega Hurry</a></li>
+<li><a href="/wiki/PetAbility:Mega_Recovery" title="PetAbility:Mega Recovery">PetAbility:Mega Recovery</a></li>
+<li><a href="/wiki/PetAbility:Mega-Boost" title="PetAbility:Mega-Boost">PetAbility:Mega-Boost</a></li>
+<li><a href="/wiki/PetAbility:Mega-Deplete" title="PetAbility:Mega-Deplete">PetAbility:Mega-Deplete</a></li>
+<li><a href="/wiki/PetAbility:Mega-Leech" title="PetAbility:Mega-Leech">PetAbility:Mega-Leech</a></li>
+<li><a href="/wiki/PetAbility:Mega-Upset" title="PetAbility:Mega-Upset">PetAbility:Mega-Upset</a></li>
+<li><a href="/wiki/PetAbility:Move_It!" title="PetAbility:Move It!">PetAbility:Move It!</a></li>
+<li><a href="/wiki/PetAbility:Musical_Lane" title="PetAbility:Musical Lane">PetAbility:Musical Lane</a></li>
+<li><a href="/wiki/PetAbility:Mute" title="PetAbility:Mute">PetAbility:Mute</a></li></ul></div><div class="mw-category-group"><h3>N</h3>
+<ul><li><a href="/wiki/PetAbility:No_Passing" title="PetAbility:No Passing">PetAbility:No Passing</a></li></ul></div><div class="mw-category-group"><h3>O</h3>
+<ul><li><a href="/wiki/PetAbility:Oil_Slick" title="PetAbility:Oil Slick">PetAbility:Oil Slick</a></li>
+<li><a href="/wiki/PetAbility:Overtake" title="PetAbility:Overtake">PetAbility:Overtake</a></li></ul></div><div class="mw-category-group"><h3>P</h3>
+<ul><li><a href="/wiki/PetAbility:Perplex" title="PetAbility:Perplex">PetAbility:Perplex</a></li>
+<li><a href="/wiki/PetAbility:Pipe_Down!" title="PetAbility:Pipe Down!">PetAbility:Pipe Down!</a></li></ul></div><div class="mw-category-group"><h3>R</h3>
+<ul><li><a href="/wiki/PetAbility:Rally" title="PetAbility:Rally">PetAbility:Rally</a></li>
+<li><a href="/wiki/PetAbility:Recovery" title="PetAbility:Recovery">PetAbility:Recovery</a></li>
+<li><a href="/wiki/PetAbility:Restorative" title="PetAbility:Restorative">PetAbility:Restorative</a></li>
+<li><a href="/wiki/PetAbility:Restore" title="PetAbility:Restore">PetAbility:Restore</a></li></ul></div><div class="mw-category-group"><h3>S</h3>
+<ul><li><a href="/wiki/PetAbility:Sap" title="PetAbility:Sap">PetAbility:Sap</a></li>
+<li><a href="/wiki/PetAbility:Scoot" title="PetAbility:Scoot">PetAbility:Scoot</a></li>
+<li><a href="/wiki/PetAbility:Shh!" title="PetAbility:Shh!">PetAbility:Shh!</a></li>
+<li><a href="/wiki/PetAbility:Shush!" title="PetAbility:Shush!">PetAbility:Shush!</a></li>
+<li><a href="/wiki/PetAbility:Sideswipe" title="PetAbility:Sideswipe">PetAbility:Sideswipe</a></li>
+<li><a href="/wiki/PetAbility:Silence" title="PetAbility:Silence">PetAbility:Silence</a></li>
+<li><a href="/wiki/PetAbility:Siphon" title="PetAbility:Siphon">PetAbility:Siphon</a></li>
+<li><a href="/wiki/PetAbility:Siphonizer" title="PetAbility:Siphonizer">PetAbility:Siphonizer</a></li>
+<li><a href="/wiki/PetAbility:Slick-N-Slide" title="PetAbility:Slick-N-Slide">PetAbility:Slick-N-Slide</a></li>
+<li><a href="/wiki/PetAbility:Slow_Leader" title="PetAbility:Slow Leader">PetAbility:Slow Leader</a></li>
+<li><a href="/wiki/PetAbility:Slow_Motion" title="PetAbility:Slow Motion">PetAbility:Slow Motion</a></li>
+<li><a href="/wiki/PetAbility:Slowpoke" title="PetAbility:Slowpoke">PetAbility:Slowpoke</a></li>
+<li><a href="/wiki/PetAbility:Spiffy-Pop" title="PetAbility:Spiffy-Pop">PetAbility:Spiffy-Pop</a></li>
+<li><a href="/wiki/PetAbility:Stall" title="PetAbility:Stall">PetAbility:Stall</a></li>
+<li><a href="/wiki/PetAbility:Stonewall" title="PetAbility:Stonewall">PetAbility:Stonewall</a></li>
+<li><a href="/wiki/PetAbility:Stop_Leader" title="PetAbility:Stop Leader">PetAbility:Stop Leader</a></li>
+<li><a href="/wiki/PetAbility:Stumble" title="PetAbility:Stumble">PetAbility:Stumble</a></li>
+<li><a href="/wiki/PetAbility:Stumble_On" title="PetAbility:Stumble On">PetAbility:Stumble On</a></li>
+<li><a href="/wiki/PetAbility:Stupefy" title="PetAbility:Stupefy">PetAbility:Stupefy</a></li>
+<li><a href="/wiki/PetAbility:Super_Delay" title="PetAbility:Super Delay">PetAbility:Super Delay</a></li>
+<li><a href="/wiki/PetAbility:Super_Hurry" title="PetAbility:Super Hurry">PetAbility:Super Hurry</a></li>
+<li><a href="/wiki/PetAbility:Super-Dizzy" title="PetAbility:Super-Dizzy">PetAbility:Super-Dizzy</a></li>
+<li><a href="/wiki/PetAbility:Super-Lock" title="PetAbility:Super-Lock">PetAbility:Super-Lock</a></li>
+<li><a href="/wiki/PetAbility:Super-Pass" title="PetAbility:Super-Pass">PetAbility:Super-Pass</a></li>
+<li><a href="/wiki/PetAbility:Super-Sap" title="PetAbility:Super-Sap">PetAbility:Super-Sap</a></li>
+<li><a href="/wiki/PetAbility:Super-Stall" title="PetAbility:Super-Stall">PetAbility:Super-Stall</a></li>
+<li><a href="/wiki/PetAbility:Supercharge" title="PetAbility:Supercharge">PetAbility:Supercharge</a></li></ul></div><div class="mw-category-group"><h3>T</h3>
+<ul><li><a href="/wiki/PetAbility:Think_Fast!" title="PetAbility:Think Fast!">PetAbility:Think Fast!</a></li></ul></div><div class="mw-category-group"><h3>U</h3>
+<ul><li><a href="/wiki/PetAbility:Ultra_Boost" title="PetAbility:Ultra Boost">PetAbility:Ultra Boost</a></li>
+<li><a href="/wiki/PetAbility:Ultra_Charge" title="PetAbility:Ultra Charge">PetAbility:Ultra Charge</a></li>
+<li><a href="/wiki/PetAbility:Ultra_Exhaustion" title="PetAbility:Ultra Exhaustion">PetAbility:Ultra Exhaustion</a></li>
+<li><a href="/wiki/PetAbility:Ultra_Hurry" title="PetAbility:Ultra Hurry">PetAbility:Ultra Hurry</a></li>
+<li><a href="/wiki/PetAbility:Ultra_Mute" title="PetAbility:Ultra Mute">PetAbility:Ultra Mute</a></li>
+<li><a href="/wiki/PetAbility:Ultra_Rally" title="PetAbility:Ultra Rally">PetAbility:Ultra Rally</a></li>
+<li><a href="/wiki/PetAbility:Unbreakable" title="PetAbility:Unbreakable">PetAbility:Unbreakable</a></li>
+<li><a href="/wiki/PetAbility:Upset" title="PetAbility:Upset">PetAbility:Upset</a></li></ul></div><div class="mw-category-group"><h3>W</h3>
+<ul><li><a href="/wiki/PetAbility:Weaken" title="PetAbility:Weaken">PetAbility:Weaken</a></li>
+<li><a href="/wiki/PetAbility:Weakenizer" title="PetAbility:Weakenizer">PetAbility:Weakenizer</a></li>
+<li><a href="/wiki/PetAbility:Wipeout" title="PetAbility:Wipeout">PetAbility:Wipeout</a></li></ul></div></div>
